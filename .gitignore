@@ -1,0 +1,12 @@
+node_modules/
+auth-token
+oauth-*
+policy.json
+state.json
+*.log
+*.bak*
+.env
+.env.*
+!.env.example
+.DS_Store
+coverage/

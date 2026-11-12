@@ -1,0 +1,12 @@
+{
+  "liveEnabled": false,
+  "stopped": true,
+  "maxCapitalUsdt": 0,
+  "maxOrderUsdt": 0,
+  "maxRiskPerTradeUsdt": 0,
+  "maxLeverage": 0,
+  "maxDailyLossUsdt": 0,
+  "maxDailyTrades": 0,
+  "maxOpenPositions": 0,
+  "allowedMarkets": []
+}
